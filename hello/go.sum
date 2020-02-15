@@ -1,1 +1,3 @@
 github.com/tomdotorg/learn_go v0.0.0-20200215213857-9ae74964e291 h1:47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+github.com/tomdotorg/learn_go/morestrings v0.0.0-20200215215810-74730583db14 h1:bBIur4cI6CxzVT+8rYLBcK59n/znoyTyq0MjWU00lww=
+github.com/tomdotorg/learn_go/morestrings v0.0.0-20200215215810-74730583db14/go.mod h1:+kLYCvSORbz9ppR7JJHPE9ozJzJWgc9yAKQUHkFe77U=
