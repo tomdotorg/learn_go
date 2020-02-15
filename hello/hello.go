@@ -8,4 +8,5 @@ import (
 
 func main() {
 	fmt.Println(morestrings.ReverseRunes("!oG ,olleH"))
+	fmt.Println(morestrings.ReverseRunes("Hello, World!"))
 }
