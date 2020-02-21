@@ -1,9 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+)
 
 /* function returning the max between two numbers */
 func max(num1, num2 int) int {
+	log.Printf("%s", "hello, world!")
 	/* local variable declaration */
 	var result int
 
